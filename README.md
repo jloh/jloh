@@ -4,7 +4,7 @@ I'm a Infrastructure Engineer at [Ghost](https://ghost.org/) helping build their
 
 I built [GeoJS](https://geojs.io/) a geo-location 🌏 lookup API serving 120 million requests daily 🚀
 
-You can find my blog [over here](https://jloh.co) and I'm also on [Twitter](https://jloh.co/l/twitter) 🦉 and [Mastodon](https://jloh.co/l/mastodon) 🐘
+You can find my blog [over here](https://jloh.co) and I'm also on [Twitter](https://jloh.co/l/twitter) 🦉 and <a rel="me" href="https://sysadmin.run/@jloh">Mastodon</a> 🐘
 
 <!--
 **jloh/jloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
